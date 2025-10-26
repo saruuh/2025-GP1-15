@@ -9,12 +9,12 @@ Labbaik aims to support pilgrims throughout their sacred journey by offering ste
 Labbaik seeks to enhance the pilgrimage experience through modern innovation while preserving the essence of tradition.
 
 ## Technologies Used
-- • Flutter 
-- • Firebase
-- • Figma
+- Flutter 
+- Firebase
+- Figma
 
 ## Launch Instructions
 ### Requirements
-- • Flutter SDK installed
-- • Android Studio or Xcode for platform emulators
-- • A connected device or simulator
+- Flutter SDK installed
+- Android Studio or Xcode for platform emulators
+- A connected device or simulator
