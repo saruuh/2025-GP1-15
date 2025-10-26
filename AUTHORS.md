@@ -1,5 +1,5 @@
 # Members 
-## Prepare by
+## Prepared by
 - Shahad AlMutairi 444200935 
 - Nouf AlMansour 444200525 
 - Aroub AlSalihi 444200560 
